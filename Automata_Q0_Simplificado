@@ -1,0 +1,8 @@
+digraph {
+	graph [center=true rankdir=LR ratio=fill size="4,5"]
+	ini [shape=point]
+	Q0 [shape=doublecircle]
+	ini -> Q0
+	Q1Q3Q2
+	Q0 -> Q0 [label=0]
+}

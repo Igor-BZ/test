@@ -1,0 +1,4 @@
+  ~~ |   Q3 |   Q2 |   Q1 | 
+  Q0 |   XX |   XX |   XX | 
+  Q1 |   OO |   OO | 
+  Q2 |   OO | 
